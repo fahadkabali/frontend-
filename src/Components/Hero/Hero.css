@@ -76,7 +76,7 @@
         margin-top: 20px;
         font-size: 18px;
     }
-    .hero-right{
+    .hero-right img{
         width: 500px;
     }
 }
@@ -99,7 +99,7 @@
         height: 50px;
         font-size: 16px;
     }
-    .hero-right{
+    .hero-right img{
         width: 400px;
     }
 }
@@ -122,7 +122,7 @@
         height: 40px;
         font-size: 13px;
     }
-    .hero-right{
+    .hero-right img{
         width: 300px;
     }
 }

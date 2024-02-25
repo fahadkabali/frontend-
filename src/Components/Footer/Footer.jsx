@@ -2,7 +2,7 @@ import React from 'react'
 import './Footer.css'
 import footer_logo from '../Assests/logo_big.png'
 import instagram_icon from '../Assests/instagram_icon.png'
-import pintester_icon from '../Assests/pintester_icon.png'
+import twitter_icon from '../Assests/twitter_icon.png'
 import whatsapp_icon from '../Assests/whatsapp_icon.png'
 
 const Footer = () => {
@@ -26,7 +26,7 @@ const Footer = () => {
           <img src={instagram_icon} alt=""/>
         </div>
         <div className="footer-icons-container">
-          <img src={pintester_icon} alt=""/>
+          <img src={twitter_icon} alt=""/>
         </div>
         <div className="footer-icons-container">
           <img src={whatsapp_icon} alt=""/>
