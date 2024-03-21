@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import './Popular.css'
 import Item from '../Item/Item'
-import { response } from 'express'
+// import { response } from 'express'
 
 const Popular = () => {
   const [popularProducts, setPopularProducts] = useState([])
